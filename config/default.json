@@ -1,0 +1,8 @@
+{
+  "port": 5001,
+  "jwtSecret": "raja",
+  "mongoUri": "mongodb+srv://raja1:dLBjMOz6v16s4gjn@cluster0.knyqxlj.mongodb.net/Slink?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5001",
+    "_comment":" here you can change the mongodb url and baseurl with your backend server link if you deployed it seperately"
+
+}
